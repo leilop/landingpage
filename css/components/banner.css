@@ -1,0 +1,34 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.5) 50%), url(../../images/studio-vert2.jpeg);
+	color: white;
+	padding: 200px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 { 
+	font-size: 60px;
+ }
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.9;
+	margin-bottom: 50px;
+	color: white;
+}
+
+#banner2 {
+
+	background-image: linear-gradient(-225deg, rgba(0,0,1,1.9) 0%, rgba(0,0,0,0.5) 50%), url(../../images/bcgrey.png);
+	color: white;
+	padding: 150px 0px;
+
+
+}
+
+.banner espace{
+
+	color: white;
+}
+
